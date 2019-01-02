@@ -18,3 +18,7 @@ body #wall #tag-2 {
 #wall .parent #tag-5.slick:first-child {
   display: none;
 }
+
+#wall .parent {
+  display: none;
+}
